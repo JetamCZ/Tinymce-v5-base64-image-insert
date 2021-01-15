@@ -25,3 +25,9 @@ This plugin is for Tinymce editor version 5. You can add image upload that will 
     });
 </script>
 ```
+
+
+
+
+
+This plugin was build based on plugin called `https://github.com/buddyexpress/bdesk_photo` and `martyf/tinymce-5-plugin-playground` https://github.com/martyf/tinymce-5-plugin-playground
