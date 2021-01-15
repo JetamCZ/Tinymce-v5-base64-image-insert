@@ -5,7 +5,7 @@ This plugin is for Tinymce editor version 5. You can add image upload that will 
 ## How to use this plugin?
 1) Import this script
 ```
-<script src="/js/bdesk.js"></script>
+<script src="/js/tinymce-plugin-base64insert.js"></script>
 ```
 2) Add plugin to tinymce init
 ```
